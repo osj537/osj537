@@ -1,6 +1,6 @@
 # 👋 Hi, I’m sangjin oh
 
-💻 **Fullstack Developer
+💻 Fullstack Developer
 🎨 감각을 융합한 웹 서비스 제작 경험  
 
 ---
