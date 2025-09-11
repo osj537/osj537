@@ -1,7 +1,7 @@
-# 👋 Hi, I’m 상진 오  
+# 👋 Hi, I’m sangjin oh
 
-💻 **Fullstack Developer (Java & Spring 기반)**  
-🎨 Design + Development 감각을 융합한 웹 서비스 제작 경험  
+💻 **Fullstack Developer
+🎨 감각을 융합한 웹 서비스 제작 경험  
 
 ---
 
@@ -14,8 +14,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자이름&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=osj537&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osj537&layout=compact)
 
 ---
 
