@@ -1,7 +1,5 @@
 # 👋 Hi, I’m sangjin oh
-
-<h1 align="center">Hi 👋, I'm 상진 오</h1>
-<h3 align="center">💻 Fullstack Developer <br>
+<h3 style="font-size:14px" align="center">💻 Fullstack Developer <br>
 🎨 감각을 융합한 웹 서비스 제작 경험  </h3>
 
 <p align="center">
