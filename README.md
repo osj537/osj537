@@ -1,7 +1,8 @@
 # 👋 Hi, I’m sangjin oh
 
 <h1 align="center">Hi 👋, I'm 상진 오</h1>
-<h3 align="center">Java Fullstack Developer | Design + Development</h3>
+<h3 align="center">💻 Fullstack Developer <br>
+🎨 감각을 융합한 웹 서비스 제작 경험  </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
