@@ -13,9 +13,13 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=osj537&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osj537&layout=compact)
+### 🚀 Projects Overview
+
+#### 1) 학업성취도 평가 통계 시스템
+기능: 통계 출력, 기본/상세 리포트, PDF 다운로드  
+기술 스택:  
+- Java (40%) | Spring (30%) | Vue.js (20%) | MySQL (10%)  
+![pie chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Spring','Vue.js','MySQL'],datasets:[{data:[40,30,20,10]}]}})
 
 ---
 
