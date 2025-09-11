@@ -5,10 +5,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
 </p>
-
-💻 Fullstack Developer
-🎨 감각을 융합한 웹 서비스 제작 경험  
-
 ---
 
 ### 🛠 Tech Stack
