@@ -2,9 +2,9 @@
 <h3 style="font-size:14px">Fullstack Developer</h3>
 
 ### 🛠 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, Vue.js, Bootstrap  
-- **Backend**: Java, Spring, Spring Boot, JSP, Servlet, MyBatis  
-- **Database**: MySQL, Oracle  
+- **Frontend**: HTML, CSS, JavaScript, Vue.js, Bootstrap, React
+- **Backend**: Java, Spring, Spring Boot, JSP, Servlet, MyBatis, Python  
+- **Database**: MySQL, Oracle, MariaDB
 - **Tools**: Git, GitHub, Docker, AWS  
 
 ### 🚀 Projects
