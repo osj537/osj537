@@ -7,9 +7,8 @@
 **Java · Spring Boot · React** 기반의 풀스택 개발자입니다.  
 사용자 경험을 고려한 기능 구현과 안정적인 백엔드 설계에 관심이 많습니다.
 
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](링크)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](링크)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-kappa-n7q736afg1.vercel.app/)
+[![Notion](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
 
 </div>
 
@@ -54,21 +53,6 @@
 - **기술 스택**: `Spring Boot` `React` `MySQL` `JasperReports`
 - **기여 내용**: 통계/리포트 모듈 설계 및 구현, PDF 렌더링 파이프라인 구축
 - [🔗 GitHub](링크) |
-
----
-
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osj537&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osj537&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
