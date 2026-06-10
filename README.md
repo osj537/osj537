@@ -8,7 +8,7 @@
 사용자 경험을 고려한 기능 구현과 안정적인 백엔드 설계에 관심이 많습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-kappa-n7q736afg1.vercel.app/)
-[![Notion](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://granite-engineer-6d1.notion.site/Portfolio-2706f9ef939f810ea3c3faec8ab5a357?pvs=74)
 
 </div>
 
