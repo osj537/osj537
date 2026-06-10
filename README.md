@@ -4,8 +4,8 @@
 
 ### Fullstack Developer
 
-**Java · Spring Boot · React** 기반의 풀스택 개발자입니다.  
-사용자 경험을 고려한 기능 구현과 안정적인 백엔드 설계에 관심이 많습니다.
+**Frontend부터 Backend까지** 아우르는 풀스택 개발자입니다.  
+사용자 경험을 고려한 기능 구현과 확장 가능한 서비스 설계에 관심이 많습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-kappa-n7q736afg1.vercel.app/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://granite-engineer-6d1.notion.site/Portfolio-2706f9ef939f810ea3c3faec8ab5a357?pvs=74)
