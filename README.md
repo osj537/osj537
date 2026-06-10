@@ -1,18 +1,85 @@
-# 👋 Hi, I’m sangjin oh
-<h3 style="font-size:14px">Fullstack Developer</h3>
+<div align="center">
 
-### 🛠 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, Vue.js, Bootstrap, React
-- **Backend**: Java, Spring, Spring Boot, JSP, Servlet, MyBatis, Python  
-- **Database**: MySQL, Oracle, MariaDB
-- **Tools**: Git, GitHub, Docker, AWS  
+# 👋 Hi, I'm Sangjin Oh
 
-### 🚀 Projects
-- [📚 학업성취도 평가 플랫폼](링크) – 통계/리포트, PDF 다운로드 기능 구현  
-- [📝 시험 출제 자동화 시스템](링크) – 문제 은행 기반 자동 출제  
+### Fullstack Developer
+
+**Java · Spring Boot · React** 기반의 풀스택 개발자입니다.  
+사용자 경험을 고려한 기능 구현과 안정적인 백엔드 설계에 관심이 많습니다.
+
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](링크)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](링크)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](링크)
+
+</div>
 
 ---
 
-### 🌐 Links
-- [Blog](링크) | [Portfolio](링크) | [LinkedIn](링크)
+## 🛠 Tech Stack
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
+
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Tools & Infra**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 📚 학업성취도 평가 플랫폼
+> 학생별 성취도를 시각화하고 PDF 리포트를 자동 생성하는 교육 평가 플랫폼
+
+- **주요 기능**: 과목별 통계 분석 대시보드, PDF 다운로드, 성취도 리포트 자동 생성
+- **기술 스택**: `Spring Boot` `React` `MySQL` `JasperReports`
+- **기여 내용**: 통계/리포트 모듈 설계 및 구현, PDF 렌더링 파이프라인 구축
+- [🔗 GitHub](링크) | [🌐 Demo](링크)
+
+---
+
+### 📝 시험 출제 자동화 시스템
+> 문제 은행 기반으로 조건에 맞는 시험지를 자동으로 구성하는 출제 자동화 시스템
+
+- **주요 기능**: 난이도/유형별 문제 필터링, 자동 출제 알고리즘, 시험지 미리보기 및 출력
+- **기술 스택**: `Spring Boot` `Vue.js` `Oracle` `MyBatis`
+- **기여 내용**: 문제 은행 DB 설계, 자동 출제 로직 구현, 출제 결과 미리보기 UI 개발
+- [🔗 GitHub](링크) | [🌐 Demo](링크)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+📬 **Contact**: your@email.com
+
+</div>
