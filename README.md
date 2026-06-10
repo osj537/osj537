@@ -47,23 +47,17 @@
 
 ## 🚀 Projects
 
-### 📚 학업성취도 평가 플랫폼
+### 📚 천재교육 Fullit 프로젝트
 > 학생별 성취도를 시각화하고 PDF 리포트를 자동 생성하는 교육 평가 플랫폼
 
 - **주요 기능**: 과목별 통계 분석 대시보드, PDF 다운로드, 성취도 리포트 자동 생성
 - **기술 스택**: `Spring Boot` `React` `MySQL` `JasperReports`
 - **기여 내용**: 통계/리포트 모듈 설계 및 구현, PDF 렌더링 파이프라인 구축
-- [🔗 GitHub](링크) | [🌐 Demo](링크)
+- [🔗 GitHub](링크) |
 
 ---
 
-### 📝 시험 출제 자동화 시스템
-> 문제 은행 기반으로 조건에 맞는 시험지를 자동으로 구성하는 출제 자동화 시스템
 
-- **주요 기능**: 난이도/유형별 문제 필터링, 자동 출제 알고리즘, 시험지 미리보기 및 출력
-- **기술 스택**: `Spring Boot` `Vue.js` `Oracle` `MyBatis`
-- **기여 내용**: 문제 은행 DB 설계, 자동 출제 로직 구현, 출제 결과 미리보기 UI 개발
-- [🔗 GitHub](링크) | [🌐 Demo](링크)
 
 ---
 
@@ -71,8 +65,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osj537&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osj537&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -80,6 +74,6 @@
 
 <div align="center">
 
-📬 **Contact**: your@email.com
+📬 **Contact**: osj203040@gmail.com
 
 </div>
