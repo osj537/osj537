@@ -50,7 +50,7 @@
 > 학생별 성취도를 시각화하고 PDF 리포트를 자동 생성하는 교육 평가 플랫폼
 
 - **주요 기능**: 과목별 통계 분석 대시보드, PDF 다운로드, 성취도 리포트 자동 생성
-- **기술 스택**: `Spring Boot` `React` `MySQL` `JasperReports`
+- **기술 스택**: `Spring Boot` `Vue.js` `MySQL` `JasperReports`
 - **기여 내용**: 통계/리포트 모듈 설계 및 구현, PDF 렌더링 파이프라인 구축
 - [🔗 GitHub](링크) |
 
