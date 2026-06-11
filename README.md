@@ -66,8 +66,4 @@ Java, JSP, Tomcat, Oracle, Google Maps API
 
 [GitHub](https://github.com/GoBookEE/GoBookEE) / [Notion](https://granite-engineer-6d1.notion.site/GoBookE-2706f9ef939f8130a7c2fbcfa2878ef9)
 
-<br>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osj537&show_icons=true&theme=default&hide_border=true)
