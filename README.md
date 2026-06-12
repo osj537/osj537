@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sangjin Oh (오상진)
+# 오상진
 
 ### Full-Stack Developer | Java/Spring · Python/FastAPI · React/Vue
 
